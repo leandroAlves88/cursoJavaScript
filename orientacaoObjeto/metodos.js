@@ -11,5 +11,5 @@ class Quadrado {
     }
 }
 
-const quadrado1 = new Quadrado();
+const quadrado1 = new Quadrado(5,10);
 console.log(quadrado1.calculaArea());
